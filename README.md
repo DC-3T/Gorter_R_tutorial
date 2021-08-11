@@ -5,4 +5,5 @@ A repository containing materials for a Gorter meeting tutorial on R
 
 # Additional Resources
 Cheatsheet for ggplot2: https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf
-Ggally documentation: https://cran.r-project.org/web/packages/GGally/GGally.pdf
+
+GGally documentation: https://cran.r-project.org/web/packages/GGally/GGally.pdf
