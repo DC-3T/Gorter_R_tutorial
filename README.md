@@ -7,3 +7,5 @@ A repository containing materials for a Gorter meeting tutorial on R
 Cheatsheet for ggplot2: https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf
 
 GGally documentation: https://cran.r-project.org/web/packages/GGally/GGally.pdf
+
+More on ggpairs: https://www.blopig.com/blog/2019/06/a-brief-introduction-to-ggpairs/
