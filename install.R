@@ -1,2 +1,8 @@
 install.packages("dplyr")
 install.packages("ggplot2")
+install.packages('GGally')
+install.packages('Hmisc')
+install.packages('corrplot')
+install.packages('Formula')  
+install.packages('survival')
+install.packages('lattice')
