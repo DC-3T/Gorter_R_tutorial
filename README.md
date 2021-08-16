@@ -10,6 +10,8 @@ We'll have to merge the two for the presentation
 # Additional Resources
 Cheatsheet for ggplot2: https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf
 
+Webinar on ggplot2: https://www.youtube.com/watch?v=h29g21z0a68
+
 GGally documentation: https://cran.r-project.org/web/packages/GGally/GGally.pdf
 
 More on ggpairs: https://www.blopig.com/blog/2019/06/a-brief-introduction-to-ggpairs/
