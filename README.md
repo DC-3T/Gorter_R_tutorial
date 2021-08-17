@@ -1,4 +1,4 @@
-# The A to Z of R - Basic commands to beautiful plots with ggplot
+# The A to Z of R - From basic commands to beautiful plots with ggplot
 A repository containing materials for a Gorter meeting tutorial on R.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DC-3T/Gorter_R_tutorial/HEAD)
