@@ -12,7 +12,7 @@ The tutorial will *not* cover the basics of statistical analysis, or which tests
 See below some additional resources for learning R and ggplot2.
 
 # Additional Resources
-A learning strategy for R: https://education.rstudio.com/learn/beginner/
+A learning strategies for R: https://education.rstudio.com/learn/beginner/
 
 Cheatsheet for ggplot2: https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf
 
